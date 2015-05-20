@@ -1,0 +1,16 @@
+{
+  "protocol": "CustomProtocol",
+  "namespace": "me.qinlu.pojo",
+  "types": [
+    {
+      "type": "record",
+      "name": "TestAvro",
+      "fields": [
+        {
+          "name": "id",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}
